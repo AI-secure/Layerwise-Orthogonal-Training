@@ -1,0 +1,6 @@
+.*.pyc
+.*.swo
+.*.swp
+LipConvnet_*
+cifar-data/
+__pycache__/
